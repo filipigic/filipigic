@@ -1,5 +1,4 @@
 ﻿# Hi, I'm Filip 👋
-I'm a recent graduate, with a lot of time on his hands. I'm going to take advantage of this and try and build some cool and useful apps. Feel free to message me if you want to collab 👀   
 The following are my current main interests but I'm always looking for the next innovative tech. 
 
 ## Web Apps 💻
